@@ -1,0 +1,2 @@
+#plutus-core config localhost
+port: "8000"
